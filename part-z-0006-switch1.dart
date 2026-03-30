@@ -12,7 +12,7 @@ void main() {
     case 9 || 10 || 11:
       print("Autumn");
     default:
-      print("Type an intger between 1 and 12");
+      print("Type an integer between 1 and 12");
   }
 }
 
